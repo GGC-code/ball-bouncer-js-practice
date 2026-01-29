@@ -1,3 +1,7 @@
+- [Title](#title)
+- [Features](#features)
+- [How It Works](#how-it-works)
+
 # Ball Bounce
 
 A simple HTML/CSS/JavaScript project that simulates a bouncing ball on a platform using the keyboard.
@@ -25,3 +29,4 @@ By holding down any key, the ball moves up; when the key is released, the ball f
    - the ball moves down
 
 The vertical movement is handled by changing the CSS `bottom` property of the ball.
+
