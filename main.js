@@ -7,5 +7,5 @@ let up = () =>{
 let down = () => {
   ball.style.bottom = '50px';
 };
-document.ball.addEventListener('keydown', up);  
-document.ball.addEventListener('keyup', down);
+document.addEventListener('keydown', up);  
+document.addEventListener('keyup', down);
